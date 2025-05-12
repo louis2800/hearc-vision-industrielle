@@ -1,1 +1,5 @@
-# hearc-vision-industrielle
+# Vision industrielle HE-Arc - 2024/2025
+
+**Cours** : Vision industrielle
+**Année académique** : 2024-2025  
+**Institution** : HE-Arc Ingénierie, Neuchâtel  
