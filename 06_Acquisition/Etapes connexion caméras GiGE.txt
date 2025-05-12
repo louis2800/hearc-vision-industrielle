@@ -1,0 +1,9 @@
+Pour connecter une caméra GigE, les étapes à suivre ou vérifier sont:
+
+    1. Configurer l'adresse IP de la carte Ethernet. Soit une adresse IP fixe pour une connexion directe à la caméra, soit une adresse dynamique (DHCP) si la caméra est connectée dans un sous-réseau. Pour les adresses fixes on préférera les sous-réseaux dits "réservés" 169.254.x.x (pour caméras SVS) ou 192.168.x.x (pour caméras Basler)
+    2. Brancher et alimenter la caméra.
+    3. Configurer dans le logiciel de vision packetsize à négotiable ou 1500 bytes maximum.
+    4. Désactiver le firewall si nécessaire. 
+
+Ensuite on peut utiliser un logiciel de vision industrielle pour capturer les images.
+Modifié le: mardi 1 octobre 2024, 16:51

@@ -1,0 +1,18 @@
+Programmez un projet Cognex Insight pour trier des jetons (”jetons à encoche”) selon l’angle sous-tendu entre ses encoches, qui peut être de 60, 45 ou 50 degrés.
+
+Matériel requis
+
+    4-6 jetons ”à encoche” (cf. fig. 1) avec différents angles.
+    Table rétro-éclairée de la cellule robotique
+    Caméra Cognex Insight
+
+Les jetons seront placés (à l’avenir par un robot) sur une table retro-éclairée. Le programme doit retourner, dans des cellules, pour chaque jeton isolé qui est détecté :
+
+    La position du centre
+    L’orientation de l’encoche triangulaire
+    Son type, selon l’angle sous-tendu entre ses encoches, qui peut être de 60, 50 ou 45 degrés.
+    Si le jeton est en position pile ou face.
+
+
+Utilisez le projet EmptyJob.job comme point de départ de votre projet. Assurez vous que l’analyse d’image soit le plus indépendante possible du grandissement optique.
+Modifié le: mardi 23 février 2021, 16:55

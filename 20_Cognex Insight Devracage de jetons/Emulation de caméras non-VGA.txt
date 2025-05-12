@@ -1,0 +1,4 @@
+La taille de l'image dépend du modèle de caméra. Par défaut l'émulateur fonctionne avec des images VGA. Pour pouvoir travailler avec d'autres images (2Mpix, 5Mpix) il faut configurer l'émulateur pour le bon modèle de caméra:
+
+Dans le menu -> System -> Options -> Emulation -> Model  et choisissez le modèle de caméra à utiliser (p.ex. 5605 ou 5603). Ensuite il faudra redémarrer Insight Explorer.
+Modifié le: lundi 7 octobre 2024, 21:03

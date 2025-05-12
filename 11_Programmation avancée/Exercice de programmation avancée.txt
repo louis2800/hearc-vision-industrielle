@@ -1,0 +1,10 @@
+
+    1. Avec les images "engrenages A" (Switchdrive / engrenages A), 
+    Programmez DA pour apprendre automatiquement les modèles des pièces qui ne sont pas reconnues. Le projet commence avec une liste vide de modèles et en crée progressivement.
+    Utiliser: ModelFinder, Reconfigure
+    
+	2. Avec les images "Image Vis" (Switchdrive / image Vis), 
+    Programmez DA avec 3 recettes pour trier les vis M3, M4 et M5, indépendamment de leur longueur.
+    Utiliser: LoadRecipe, CreateRecipe
+
+Modifié le: mardi 10 décembre 2024, 13:53

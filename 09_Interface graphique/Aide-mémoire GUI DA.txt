@@ -1,0 +1,32 @@
+Concepts présentés
+
+    Deploy project (Chapter 2 user manual)
+
+    Customizing the operator view overview (Chapter 50 user manual)
+        Configuring output elements
+            Configuring a Value element
+            Configuring a PassFail element
+        Configuring input elements
+            Buttons
+            Configuring a TextBox element
+                Binding to a variable
+            Buttons
+                Flowchart actions
+                Execution control: Run, Pause, Stop, Restart, Resume
+                Set Variable
+        Configuring a Display element
+            Adding an annotation to a Display element
+        Creating multiple operator views (pages)
+        Controlling when data is sent to the operator view
+            Update Point
+            Update rate
+            Clearing points
+
+    Navigate Step (chapter 52 user manual)
+
+Concepts avancés
+
+    Testing and debugging operator views at design-time
+    Controlling image acquisition from the operator view
+
+Modifié le: jeudi 30 avril 2020, 16:52
