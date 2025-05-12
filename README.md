@@ -1,0 +1,1 @@
+# hearc-vision-industrielle
